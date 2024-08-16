@@ -74,7 +74,7 @@ whichmeasure()
 
 print("\nThanks for using this program!")
 
-print("\nAlso rec me so updates for this project cus I was working on this late at night so the program isn't perfect. Just abide by the instructions as the program runs or errors will appear because of format.")
+
 
 
 
